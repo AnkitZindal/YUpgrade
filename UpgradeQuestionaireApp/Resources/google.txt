@@ -1,0 +1,11 @@
+#
+#Mon Dec 14 16:46:51 UTC 2015
+Type=HTTP
+client_secret=n8P_aHwyzLZI6deeYOXDYUff
+Authentication=NoAuthentication
+client_id=414472451685-3b1gcimql3o2oegjoqbok9aiv1lphncm.apps.googleusercontent.com
+TrustAll=true
+Name=google
+CloudConnectorVersion=2
+URL=https\://www.googleapis.com
+ProxyType=Internet
